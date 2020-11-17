@@ -56,10 +56,12 @@ For a plane $S$ with point $P$, the tangent line of $S$ at $P$ consists of all p
 *Equations*
 Any plane passing through point $p = (x_0, y_0, z_0)$
 $A(x-x_0) + B(y-y_0) + C(z-z_0) = 0$
+
 $z-z_0 = \frac{-A}{C}(x-x_0) + \frac{-B}{C}(y-y_0)$
 *thus, intersection at $y=y_0$*
-$z-z_0 = \frac{-A}
+$z-z_0 = a(x-x_0)$  &#8594; point-slope form
+thus, $a = f_x(x_0, y_0)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTMyMzIzMTUsLTUzNTI1NzI3NiwtNz
-M1NTcyNzgxLC0xNTc2MDYxODU1LDEyODE1MTE0NzhdfQ==
+eyJoaXN0b3J5IjpbMTc4NzIwOTI2MCwtNTM1MjU3Mjc2LC03Mz
+U1NzI3ODEsLTE1NzYwNjE4NTUsMTI4MTUxMTQ3OF19
 -->
