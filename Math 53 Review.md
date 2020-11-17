@@ -71,10 +71,11 @@ $z = f_x(x_0, y_0)(x-x_0) + f_y(x_0, y_0)(y-y_0) + z_0$
 Thus, linearization:
 $f(x, y) \approx f(a,b) + f_x(a,b)(x-a) + f_y(a,b)(y-b)$
 
-
+#### Differentiability 
+If $z = f_x(x, y) \Delta x+f_y(x,y)\Delta y + $
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzUxNzg4NTEsLTEzMzk1MDc0LDEyNz
-ExNTQxNjMsLTIwMTM3ODYzOTUsLTE5NTAyMDUzNTMsNDQ4Mzcy
-MTI4LC01MzUyNTcyNzYsLTczNTU3Mjc4MSwtMTU3NjA2MTg1NS
-wxMjgxNTExNDc4XX0=
+eyJoaXN0b3J5IjpbMTg0MzY2ODAxOSwtMTMzOTUwNzQsMTI3MT
+E1NDE2MywtMjAxMzc4NjM5NSwtMTk1MDIwNTM1Myw0NDgzNzIx
+MjgsLTUzNTI1NzI3NiwtNzM1NTcyNzgxLC0xNTc2MDYxODU1LD
+EyODE1MTE0NzhdfQ==
 -->
