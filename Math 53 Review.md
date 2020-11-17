@@ -84,9 +84,9 @@ $\Delta y, \Delta x$ &#8594; independent from one another
 $dz$ &#8594;total differential
 
 $dz = f_x(x, y)dx + f_y(x,y)dy$ = $\frac{\partial z}{\partial x}dx + \frac{\partial z}{\partial y}dy$
-$dz = 
+$dz = f_x(a,b)(x-a)+f_y(a,b)(y-b)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDgwMzc0MCwtMTMzOTUwNzQsMTI3MT
+eyJoaXN0b3J5IjpbLTExMTExNDY4MCwtMTMzOTUwNzQsMTI3MT
 E1NDE2MywtMjAxMzc4NjM5NSwtMTk1MDIwNTM1Myw0NDgzNzIx
 MjgsLTUzNTI1NzI3NiwtNzM1NTcyNzgxLC0xNTc2MDYxODU1LD
 EyODE1MTE0NzhdfQ==
