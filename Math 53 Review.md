@@ -85,8 +85,12 @@ $dz$ &#8594;total differential
 
 $dz = f_x(x, y)dx + f_y(x,y)dy$ = $\frac{\partial z}{\partial x}dx + \frac{\partial z}{\partial y}dy$
 $dz = f_x(a,b)(x-a)+f_y(a,b)(y-b)$
+
+
+**3+ vars**
+$f(x, y, z) \approx f(a, b, c)+ f_x(a, b,c)(x-a) + f_y$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTExNDY4MCwtMTMzOTUwNzQsMTI3MT
+eyJoaXN0b3J5IjpbMTcxNjQyOTc2NiwtMTMzOTUwNzQsMTI3MT
 E1NDE2MywtMjAxMzc4NjM5NSwtMTk1MDIwNTM1Myw0NDgzNzIx
 MjgsLTUzNTI1NzI3NiwtNzM1NTcyNzgxLC0xNTc2MDYxODU1LD
 EyODE1MTE0NzhdfQ==
