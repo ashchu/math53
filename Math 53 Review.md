@@ -63,9 +63,9 @@ $z-z_0 = a(x-x_0)$  &#8594; point-slope form
 thus, $a = f_x(x_0, y_0)$
 
 **Equation of Tangent Plane**
-$z-z_0 = f_x(x-x_0)$
+$z-z_0 = f_x(x_0, y_0)(x-x_0) + f_y(x_0, y_0)(y-y_0)$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTAyMDUzNTMsNDQ4MzcyMTI4LC01Mz
-UyNTcyNzYsLTczNTU3Mjc4MSwtMTU3NjA2MTg1NSwxMjgxNTEx
-NDc4XX0=
+eyJoaXN0b3J5IjpbLTIwMTM3ODYzOTUsLTE5NTAyMDUzNTMsND
+Q4MzcyMTI4LC01MzUyNTcyNzYsLTczNTU3Mjc4MSwtMTU3NjA2
+MTg1NSwxMjgxNTExNDc4XX0=
 -->
