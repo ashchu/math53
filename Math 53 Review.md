@@ -2,6 +2,9 @@
 ## 14.1 Level Curves
 With equation $f(x, y) = k$, where k is constant
 
+*Aside*
+$f(x,y) = z$ represents a surface
+$f(y) = x$ represents a vector $\arr{x, y}$
 ## 14.2 Continuity
 
 #### Definition with limits
@@ -47,6 +50,6 @@ $f_x = \frac{\partial f}{\partial x} = \frac{\partial}{\partial x}f(x,y) = \frac
 Tangent Planes
 - a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA0ODc1NzQ2LC0xNTc2MDYxODU1LDEyOD
-E1MTE0NzhdfQ==
+eyJoaXN0b3J5IjpbLTExMTkwMDM5NTIsLTE1NzYwNjE4NTUsMT
+I4MTUxMTQ3OF19
 -->
