@@ -1,6 +1,6 @@
 # Math 53 Review
 ## 14.1 Level Curves
-With equation $f(x, y
+With equation $f(x, y) = k$, where k is constant
 
 ## 14.2 Continuity
 
@@ -42,8 +42,11 @@ $f_x = \frac{\partial f}{\partial x} = \frac{\partial}{\partial x}f(x,y) = \frac
 	- differentiates expression that is not a function 
 
 
+## 14.4 Tangent Planes + Linear Approx
 
+Tangent Planes
+- a
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTQ4NTc2MDIsLTE1NzYwNjE4NTUsMT
-I4MTUxMTQ3OF19
+eyJoaXN0b3J5IjpbMzA0ODc1NzQ2LC0xNTc2MDYxODU1LDEyOD
+E1MTE0NzhdfQ==
 -->
