@@ -53,7 +53,11 @@ Tangent Planes
 
 For a plane $S$ with point $P$, the tangent line of $S$ at $P$ consists of all possible tangents to $P$ (plane consisting of curves tangent to $S$ and passing through $P$)
 
+*Equations*
+Any plane passing through point $p = (x_0, y_0, z_0)$
+$A(x-x_0) + B(y-y_0) + C(z-z_0) = 0$
+$z-z_0 = 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNTI1NzI3NiwtNzM1NTcyNzgxLC0xNT
-c2MDYxODU1LDEyODE1MTE0NzhdfQ==
+eyJoaXN0b3J5IjpbODgxODI2NzQwLC01MzUyNTcyNzYsLTczNT
+U3Mjc4MSwtMTU3NjA2MTg1NSwxMjgxNTExNDc4XX0=
 -->
