@@ -50,8 +50,9 @@ $f_x = \frac{\partial f}{\partial x} = \frac{\partial}{\partial x}f(x,y) = \frac
 Tangent Planes
 - Planes are described by at min two lines
 - Thus: tangent planes describe by **two** tangent lines
-- 
+
+For a plane $S$ with point $P$, the tangent line of $S$ at $P$ consists of all possible tangents to $P$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcxNjM1NDA2LC03MzU1NzI3ODEsLTE1Nz
-YwNjE4NTUsMTI4MTUxMTQ3OF19
+eyJoaXN0b3J5IjpbMTI2NjY0NTMyOSwtNzM1NTcyNzgxLC0xNT
+c2MDYxODU1LDEyODE1MTE0NzhdfQ==
 -->
