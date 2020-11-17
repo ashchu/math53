@@ -80,10 +80,13 @@ If $f_x, f_y$ exist near $(a, b)$ and are continuous at $(a,b)$, $f$ is differen
 
 
 **Total Differentials**
-$\Delta y$ &#8594; height of curve $f$
+$\Delta y, \Delta x$ &#8594; independent from one another
+$dz$ &#8594;total differential
+
+$dz = f_x(x, y)dx + f_y(x,y)dy$ = $\partial 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODc4MjQ2NTAsLTEzMzk1MDc0LDEyNz
-ExNTQxNjMsLTIwMTM3ODYzOTUsLTE5NTAyMDUzNTMsNDQ4Mzcy
-MTI4LC01MzUyNTcyNzYsLTczNTU3Mjc4MSwtMTU3NjA2MTg1NS
-wxMjgxNTExNDc4XX0=
+eyJoaXN0b3J5IjpbMzAzODk5ODIzLC0xMzM5NTA3NCwxMjcxMT
+U0MTYzLC0yMDEzNzg2Mzk1LC0xOTUwMjA1MzUzLDQ0ODM3MjEy
+OCwtNTM1MjU3Mjc2LC03MzU1NzI3ODEsLTE1NzYwNjE4NTUsMT
+I4MTUxMTQ3OF19
 -->
