@@ -53,8 +53,7 @@ Tangent Planes
 
 For a plane $S$ with point $P$, the tangent line of $S$ at $P$ consists of all possible tangents to $P$ (plane consisting of curves tangent to $S$ and passing through $P$)
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDc1NDgzMDIsLTczNTU3Mjc4MSwtMT
-U3NjA2MTg1NSwxMjgxNTExNDc4XX0=
+eyJoaXN0b3J5IjpbLTUzNTI1NzI3NiwtNzM1NTcyNzgxLC0xNT
+c2MDYxODU1LDEyODE1MTE0NzhdfQ==
 -->
