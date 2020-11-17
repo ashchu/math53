@@ -70,8 +70,10 @@ From the form above:
 $z = f_x(x_0, y_0)(x-x_0) + f_y(x_0, y_0)(y-y_0) + z_0$
 Thus, linearization:
 $f(x, y) \approx f(a,b) + f_x(a,b)(x-a) + f_y(a,b)(y-b)$
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDI2NDA1NzUsLTEzMzk1MDc0LDEyNz
+eyJoaXN0b3J5IjpbLTEwMzUxNzg4NTEsLTEzMzk1MDc0LDEyNz
 ExNTQxNjMsLTIwMTM3ODYzOTUsLTE5NTAyMDUzNTMsNDQ4Mzcy
 MTI4LC01MzUyNTcyNzYsLTczNTU3Mjc4MSwtMTU3NjA2MTg1NS
 wxMjgxNTExNDc4XX0=
