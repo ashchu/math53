@@ -61,7 +61,9 @@ $z-z_0 = \frac{-A}{C}(x-x_0) + \frac{-B}{C}(y-y_0)$
 *thus, intersection at $y=y_0$*
 $z-z_0 = a(x-x_0)$  &#8594; point-slope form
 thus, $a = f_x(x_0, y_0)$
+
+**Equation of Tangent Plane**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzIwOTI2MCwtNTM1MjU3Mjc2LC03Mz
-U1NzI3ODEsLTE1NzYwNjE4NTUsMTI4MTUxMTQ3OF19
+eyJoaXN0b3J5IjpbNDQ4MzcyMTI4LC01MzUyNTcyNzYsLTczNT
+U3Mjc4MSwtMTU3NjA2MTg1NSwxMjgxNTExNDc4XX0=
 -->
