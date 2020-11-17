@@ -79,9 +79,11 @@ OR
 If $f_x, f_y$ exist near $(a, b)$ and are continuous at $(a,b)$, $f$ is differentiable at $(a, b)$
 
 
+**Total Differentials**
+$\Delta y$ &#8594; height of curve $f$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMTAxNDM5MiwtMTMzOTUwNzQsMTI3MT
-E1NDE2MywtMjAxMzc4NjM5NSwtMTk1MDIwNTM1Myw0NDgzNzIx
-MjgsLTUzNTI1NzI3NiwtNzM1NTcyNzgxLC0xNTc2MDYxODU1LD
-EyODE1MTE0NzhdfQ==
+eyJoaXN0b3J5IjpbLTE2ODc4MjQ2NTAsLTEzMzk1MDc0LDEyNz
+ExNTQxNjMsLTIwMTM3ODYzOTUsLTE5NTAyMDUzNTMsNDQ4Mzcy
+MTI4LC01MzUyNTcyNzYsLTczNTU3Mjc4MSwtMTU3NjA2MTg1NS
+wxMjgxNTExNDc4XX0=
 -->
