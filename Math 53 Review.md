@@ -3,8 +3,8 @@
 With equation $f(x, y) = k$, where k is constant
 
 *Aside*
-$f(x,y) = z$ represents a surface
-$f(y) = x$ represents a vector $\arr{x, y}$
+$f(x,y) = z$ represents a surface $<x, y, z>$
+$f(y) = x$ represents a vector $<x, y>$
 ## 14.2 Continuity
 
 #### Definition with limits
@@ -48,8 +48,9 @@ $f_x = \frac{\partial f}{\partial x} = \frac{\partial}{\partial x}f(x,y) = \frac
 ## 14.4 Tangent Planes + Linear Approx
 
 Tangent Planes
-- a
+- Planes are described by at min two lines
+- Thus: tangent planes describe by **two** tangent lines
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTkwMDM5NTIsLTE1NzYwNjE4NTUsMT
-I4MTUxMTQ3OF19
+eyJoaXN0b3J5IjpbLTczNTU3Mjc4MSwtMTU3NjA2MTg1NSwxMj
+gxNTExNDc4XX0=
 -->
