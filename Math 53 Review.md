@@ -66,10 +66,11 @@ thus, $a = f_x(x_0, y_0)$
 $z-z_0 = f_x(x_0, y_0)(x-x_0) + f_y(x_0, y_0)(y-y_0)$
 
 **Linear Approximation**
-F
+From the form above:
+$z = f_x(x_0, y_0)(x-x_0) + f_y(x_0, y_0)(y-y_0) + z_0$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTE2Nzg2NjEsMTI3MTE1NDE2MywtMj
-AxMzc4NjM5NSwtMTk1MDIwNTM1Myw0NDgzNzIxMjgsLTUzNTI1
-NzI3NiwtNzM1NTcyNzgxLC0xNTc2MDYxODU1LDEyODE1MTE0Nz
-hdfQ==
+eyJoaXN0b3J5IjpbLTEzMzk1MDc0LDEyNzExNTQxNjMsLTIwMT
+M3ODYzOTUsLTE5NTAyMDUzNTMsNDQ4MzcyMTI4LC01MzUyNTcy
+NzYsLTczNTU3Mjc4MSwtMTU3NjA2MTg1NSwxMjgxNTExNDc4XX
+0=
 -->
