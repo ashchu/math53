@@ -83,10 +83,11 @@ If $f_x, f_y$ exist near $(a, b)$ and are continuous at $(a,b)$, $f$ is differen
 $\Delta y, \Delta x$ &#8594; independent from one another
 $dz$ &#8594;total differential
 
-$dz = f_x(x, y)dx + f_y(x,y)dy$ = $\partial 
+$dz = f_x(x, y)dx + f_y(x,y)dy$ = $\frac{\partial z}{\partial x}dx + \frac{\partial z}{\partial y}dy$
+$dz = 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAzODk5ODIzLC0xMzM5NTA3NCwxMjcxMT
-U0MTYzLC0yMDEzNzg2Mzk1LC0xOTUwMjA1MzUzLDQ0ODM3MjEy
-OCwtNTM1MjU3Mjc2LC03MzU1NzI3ODEsLTE1NzYwNjE4NTUsMT
-I4MTUxMTQ3OF19
+eyJoaXN0b3J5IjpbLTY0MDgwMzc0MCwtMTMzOTUwNzQsMTI3MT
+E1NDE2MywtMjAxMzc4NjM5NSwtMTk1MDIwNTM1Myw0NDgzNzIx
+MjgsLTUzNTI1NzI3NiwtNzM1NTcyNzgxLC0xNTc2MDYxODU1LD
+EyODE1MTE0NzhdfQ==
 -->
