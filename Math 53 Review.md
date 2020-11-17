@@ -50,7 +50,8 @@ $f_x = \frac{\partial f}{\partial x} = \frac{\partial}{\partial x}f(x,y) = \frac
 Tangent Planes
 - Planes are described by at min two lines
 - Thus: tangent planes describe by **two** tangent lines
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTU3Mjc4MSwtMTU3NjA2MTg1NSwxMj
-gxNTExNDc4XX0=
+eyJoaXN0b3J5IjpbMzcxNjM1NDA2LC03MzU1NzI3ODEsLTE1Nz
+YwNjE4NTUsMTI4MTUxMTQ3OF19
 -->
