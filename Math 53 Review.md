@@ -1,4 +1,6 @@
 # Math 53 Review
+## 14.1 Level Curves
+
 
 ## 14.2 Continuity
 
@@ -17,7 +19,7 @@ Steps:
 - Use min and max bounds to set and squeeze the function to find it's limit
 - Similar to giving a starter point/helper function
 
-## 14.Calculating *PARTIAL* Derivatives
+## 14.3 Calculating *PARTIAL* Derivatives
 $z = f(x, y)$
 - To find $f_x$ regard y as constant & differentiate f(x, y) with respect to $x$
 - To find $f_y$ regard x as constant & differentiate f(x, y) with respect to y
@@ -42,5 +44,5 @@ $f_x = \frac{\partial f}{\partial x} = \frac{\partial}{\partial x}f(x,y) = \frac
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM4NzQ2MjIwLDEyODE1MTE0NzhdfQ==
+eyJoaXN0b3J5IjpbLTE1NzYwNjE4NTUsMTI4MTUxMTQ3OF19
 -->
