@@ -1,6 +1,6 @@
 # Math 53 Review
 ## 14.1 Level Curves
-
+With equation $f(x, y
 
 ## 14.2 Continuity
 
@@ -44,5 +44,6 @@ $f_x = \frac{\partial f}{\partial x} = \frac{\partial}{\partial x}f(x,y) = \frac
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzYwNjE4NTUsMTI4MTUxMTQ3OF19
+eyJoaXN0b3J5IjpbLTEwMTQ4NTc2MDIsLTE1NzYwNjE4NTUsMT
+I4MTUxMTQ3OF19
 -->
