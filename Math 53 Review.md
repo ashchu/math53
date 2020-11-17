@@ -89,9 +89,14 @@ $dz = f_x(a,b)(x-a)+f_y(a,b)(y-b)$
 
 **3+ vars**
 $f(x, y, z) \approx f(a, b, c)+ f_x(a, b,c)(x-a) + f_y(a,b,c)(y-b)+...$
+
+
+## Chain Rule
+1. $z = f(x, y)$ &#8594; x = g(t), y=h(t)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDg5MTMwMTUsLTEzMzk1MDc0LDEyNz
-ExNTQxNjMsLTIwMTM3ODYzOTUsLTE5NTAyMDUzNTMsNDQ4Mzcy
-MTI4LC01MzUyNTcyNzYsLTczNTU3Mjc4MSwtMTU3NjA2MTg1NS
-wxMjgxNTExNDc4XX0=
+eyJoaXN0b3J5IjpbMTYzNTAwNzA5OCwtMTg0ODkxMzAxNSwtMT
+MzOTUwNzQsMTI3MTE1NDE2MywtMjAxMzc4NjM5NSwtMTk1MDIw
+NTM1Myw0NDgzNzIxMjgsLTUzNTI1NzI3NiwtNzM1NTcyNzgxLC
+0xNTc2MDYxODU1LDEyODE1MTE0NzhdfQ==
 -->
