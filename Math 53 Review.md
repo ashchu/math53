@@ -64,8 +64,11 @@ thus, $a = f_x(x_0, y_0)$
 
 **Equation of Tangent Plane**
 $z-z_0 = f_x(x_0, y_0)(x-x_0) + f_y(x_0, y_0)(y-y_0)$
+
+**Linear Approximation**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTM3ODYzOTUsLTE5NTAyMDUzNTMsND
-Q4MzcyMTI4LC01MzUyNTcyNzYsLTczNTU3Mjc4MSwtMTU3NjA2
-MTg1NSwxMjgxNTExNDc4XX0=
+eyJoaXN0b3J5IjpbMTI3MTE1NDE2MywtMjAxMzc4NjM5NSwtMT
+k1MDIwNTM1Myw0NDgzNzIxMjgsLTUzNTI1NzI3NiwtNzM1NTcy
+NzgxLC0xNTc2MDYxODU1LDEyODE1MTE0NzhdfQ==
 -->
