@@ -72,9 +72,10 @@ Thus, linearization:
 $f(x, y) \approx f(a,b) + f_x(a,b)(x-a) + f_y(a,b)(y-b)$
 
 #### Differentiability 
-If $z = f_x(x, y) \Delta x+f_y(x,y)\Delta y + $
+If $z = f_x(x, y) \Delta x+f_y(x,y)\Delta y + \epsilon_1 \Delta x+ \epsilon_2 \Delta y$ where $\epsilon \to 0, (\Delta x, \Delta y) \to 0$
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MzY2ODAxOSwtMTMzOTUwNzQsMTI3MT
+eyJoaXN0b3J5IjpbLTYwNzcyMDQxNSwtMTMzOTUwNzQsMTI3MT
 E1NDE2MywtMjAxMzc4NjM5NSwtMTk1MDIwNTM1Myw0NDgzNzIx
 MjgsLTUzNTI1NzI3NiwtNzM1NTcyNzgxLC0xNTc2MDYxODU1LD
 EyODE1MTE0NzhdfQ==
