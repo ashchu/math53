@@ -68,9 +68,11 @@ $z-z_0 = f_x(x_0, y_0)(x-x_0) + f_y(x_0, y_0)(y-y_0)$
 **Linear Approximation**
 From the form above:
 $z = f_x(x_0, y_0)(x-x_0) + f_y(x_0, y_0)(y-y_0) + z_0$
+Thus, linearization:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzk1MDc0LDEyNzExNTQxNjMsLTIwMT
-M3ODYzOTUsLTE5NTAyMDUzNTMsNDQ4MzcyMTI4LC01MzUyNTcy
-NzYsLTczNTU3Mjc4MSwtMTU3NjA2MTg1NSwxMjgxNTExNDc4XX
-0=
+eyJoaXN0b3J5IjpbLTQxNjI4MTA2MywtMTMzOTUwNzQsMTI3MT
+E1NDE2MywtMjAxMzc4NjM5NSwtMTk1MDIwNTM1Myw0NDgzNzIx
+MjgsLTUzNTI1NzI3NiwtNzM1NTcyNzgxLC0xNTc2MDYxODU1LD
+EyODE1MTE0NzhdfQ==
 -->
