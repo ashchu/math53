@@ -88,10 +88,10 @@ $dz = f_x(a,b)(x-a)+f_y(a,b)(y-b)$
 
 
 **3+ vars**
-$f(x, y, z) \approx f(a, b, c)+ f_x(a, b,c)(x-a) + f_y$
+$f(x, y, z) \approx f(a, b, c)+ f_x(a, b,c)(x-a) + f_y(a,b,c)(y-b)+...$
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNjQyOTc2NiwtMTMzOTUwNzQsMTI3MT
-E1NDE2MywtMjAxMzc4NjM5NSwtMTk1MDIwNTM1Myw0NDgzNzIx
-MjgsLTUzNTI1NzI3NiwtNzM1NTcyNzgxLC0xNTc2MDYxODU1LD
-EyODE1MTE0NzhdfQ==
+eyJoaXN0b3J5IjpbLTE4NDg5MTMwMTUsLTEzMzk1MDc0LDEyNz
+ExNTQxNjMsLTIwMTM3ODYzOTUsLTE5NTAyMDUzNTMsNDQ4Mzcy
+MTI4LC01MzUyNTcyNzYsLTczNTU3Mjc4MSwtMTU3NjA2MTg1NS
+wxMjgxNTExNDc4XX0=
 -->
